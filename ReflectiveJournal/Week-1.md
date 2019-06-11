@@ -10,7 +10,7 @@ What I've learned, what I've done, what I'm going to do
 
 
 ## Monday June 10th, 2019
-###Tasks:
+### Tasks:
 1. Meet with Dr. Bart :heavy_check_mark:
 2. Create repository for reflective journal :heavy_check_mark:
 3. Read Luke's Disseration Protocol :heavy_check_mark:
