@@ -2,15 +2,14 @@
 ## Week Summary
 
 ## Objectives
-1. Read Luke's protocol in depth
-2. Read pedal paper again
-3. Become familiar with Dr.Bart's Intro Course to learn Python
-4. GitHub Repository Reflective  
-What I've learned, what I've done, what I'm going to do
-
+1. Reinforce understanding of Pedal
+2. Reinforce understanding of CS Education research and project methodology  
+3. Gain fluency in essential aspects of Dr.Bart's Intro Course and Python programming language
+4. Establish habit of writing in journal  
 
 ## Monday June 10th, 2019
 ### Tasks:
+:heavy_check_mark: = Completed
 1. Meet with Dr. Bart :heavy_check_mark:
 2. Create repository for reflective journal :heavy_check_mark:
 3. Read Luke's Disseration Protocol :heavy_check_mark:
