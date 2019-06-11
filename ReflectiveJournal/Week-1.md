@@ -16,14 +16,14 @@ What I've learned, what I've done, what I'm going to do
 3. Read Luke's Disseration Protocol :heavy_check_mark:
 4. Write key takeaway's from Pedal paper :heavy_check_mark:
 
-###Additional notes:
+### Additional notes:
 I need to create a schedule for myself.
 
-##Tuesday June 11th, 2019
+## Tuesday June 11th, 2019
 
-##Wednesday June 12th, 2019
+## Wednesday June 12th, 2019
 
-##Thursday June 13th, 2019
+## Thursday June 13th, 2019
 
-##Friday June 14, 2019
+## Friday June 14, 2019
 
