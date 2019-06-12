@@ -19,6 +19,12 @@
 I need to create a schedule for myself.
 
 ## Tuesday June 11th, 2019
+### Tasks:
+1. Meet with Dr. Bart to discuss Luke's Prelim and Pedal Paper
+2. Meet with Luke and Dr. Bart on Sype to discuss interview protocol
+
+### Additional notes:
+Moving forward, I need to minimize first half of protocol and expand the final question. Interview protocol should reveal professor's workflow, model of feedback (what they consider feedback and how they give it), and what they need to give students useful feedback). Reading Luke's protocol and reading over qualitative methods should help.
 
 ## Wednesday June 12th, 2019
 
