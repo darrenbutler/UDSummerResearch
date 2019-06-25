@@ -25,8 +25,8 @@ Contextual inquiry - smi structured interview method to obtain information about
 ### Additional notes:
 
 ## Friday 
-1. Researched qualitative data collection
-2. Literature review for papers with similar research methods
+### Researched qualitative data collection
+### Literature review for papers with similar research methods
 
 ### Additional notes:
 Data Collection Methods:
@@ -49,4 +49,8 @@ When to apply: Understanding how a situation is organized and sustained. (How do
 Possible application to project: Analyzing the language used when professors give feedback to the incorrect student code
 Case Comparison: 
 
+### Complted mock interview with Dr. Bart
+After the interview, I realized there was more need to focus on the feedback process, in partcular how professors deliver their feedbakc (language used, concepts first addressed, how they integrate feedback into future design, how students respond) and prioir experiences with other automatic feedback and autograding tools.
+
+I listening to the recording, I revised the protocol accordingly. 
 
