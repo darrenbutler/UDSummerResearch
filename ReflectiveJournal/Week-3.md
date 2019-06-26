@@ -23,6 +23,7 @@ Inductive Categorization seems to be the optimal way forard to analyze the inter
 
 ## Wednesday 
 ### Tasks:
+I'd like to expedite my progress in the python course. This is today's primary focus. I will also follow up with Dr. Barmaki.
 ### Additional notes:
 
 ## Thursday 
