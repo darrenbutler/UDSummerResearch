@@ -23,8 +23,10 @@ Inductive Categorization seems to be the optimal way forard to analyze the inter
 
 ## Wednesday 
 ### Tasks:
-I'd like to expedite my progress in the python course. This is today's primary focus. I will also follow up with Dr. Barmaki.
+1. Completed Module 3 in Python course: I'd like to expedite my progress in the python course. This is today's primary focus. I will also follow up with Dr. Barmaki.
+2. Arranged a meeting to discuss qualitative analysis with Dr. Kataria from Midwestern State University
 ### Additional notes:
+SUGGESTION: The interface for BlockPy may need to be more humanistic. I realized I felt disconnected from the enviorment as I have other learning enviornments because there is no face to see or human-like prescence. I found myself not being as drawn to the course as other online course's I've taken. After going to Udacity for a change in pace I realized the I was more engaged because I saw the instructor's face. 
 
 ## Thursday 
 ### Tasks:
