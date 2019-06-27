@@ -29,7 +29,9 @@ Inductive Categorization seems to be the optimal way forard to analyze the inter
 SUGGESTION: The interface for BlockPy may need to be more humanistic. I realized I felt disconnected from the enviorment as I have other learning enviornments because there is no face to see or human-like prescence. I found myself not being as drawn to the course as other online course's I've taken. After going to Udacity for a change in pace I realized the I was more engaged because I saw the instructor's face. 
 
 ## Thursday 
-### Tasks:
+1. Mock Interview with Luke: More information on professors and the tools they use needs to be done. I evised the protocol some more and realized that the more I familiar I am with each professors instruction and grading process, the better the interview. 
+
 ### Additional notes:
+I'll review Dr. Barmaki's resources tomorrow.
 
 ## Friday 
